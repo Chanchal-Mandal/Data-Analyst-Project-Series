@@ -1,1 +1,1 @@
-# Data-Analyst-Project-Series
+This contains the analysis of weather data set using Python.
